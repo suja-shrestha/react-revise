@@ -7,6 +7,7 @@ function App() {
         <ul>
           <li><a href="/">home</a></li>
           <li><a href="/about">Aboutus</a></li>
+          <li><a href="/useEffectExample">UseEffect</a></li>
         </ul>
         </div>
     </nav>
